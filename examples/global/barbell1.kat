@@ -1,9 +1,9 @@
 (* The barbell-topology example from the ICFP paper.
 
    Two classes of packets enter switch 3:
-   * Packets originiating from port 1 at switch 1.
+   * Packets originating from port 1 at switch 1.
      These need to be forwarded out through port 1.
-   * Packets originiatong from port 2 at switch 1.
+   * Packets originating from port 2 at switch 1.
      These need to be forwarded out through port 2.
 
   In order for switch 3 to be able to differentiate the two
